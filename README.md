@@ -8,7 +8,10 @@ I'm Ashwin from India, currently pursuing my Master's Degree in Computer Science
 
 Feel free to browse through my work, and if something catches your eye or sparks a conversation, I'd love to hear from you!
 
-Skills: Python / C++ / C / JS / HTML / CSS
+## Skills
+* 🐍 Python
+* 💻 HTML, CSS, JS
+* 👨🏻‍💻 C, C++
 
 - 🌱 I’m currently learning SwiftUI 
 - 📫 How to reach me: ashwinkumar.venkat@gmail.com 
