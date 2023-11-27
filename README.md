@@ -1,4 +1,4 @@
-![Machine Learning and Data Science](https://unsplash.com/photos/love-to-learn-pencil-signage-on-wall-near-walking-man-WE_Kv_ZB1l0)
+![Machine Learning and Data Science](https://github.com/ash010413/ash010413/blob/main/banner.png)
 
 ### Hi there 👋, I'm Ashwinkumar Venkatnarayanan
 #### Machine Learning and Data Science
