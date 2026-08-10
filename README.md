@@ -5,6 +5,8 @@ I'm a recent graduate of the University of Southern California.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ashwinkumar-v130401/).
 
-## GitHub activity
+## GitHub Activity
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash010413&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash010413&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash010413&layout=compact&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
